@@ -71,3 +71,8 @@ footer #socialmedia{
             display: flex;
             flex-direction: column;
 }
+.link {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+}
